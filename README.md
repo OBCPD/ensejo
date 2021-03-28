@@ -27,4 +27,6 @@ The Ensejo project has two goals in mind: the first one is creating a space to d
 
 Based on the difficulties of access to low income people, we decided to create a completely free app, which is going to be available on Android and IOS, therefore, we could reach as many people as possible.
 
+#Installation
+npm instal / expo start
 Our interface is quite intuitive and simple, as a result, users will be able to smoothly access all the app features and be delighted by the straightforward yet beautiful design.
