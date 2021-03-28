@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Ensejo",
+    "slug": "ensejo",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoEnsejo.jpeg",
+    "splash": {
+      "image": "./assets/splashEnsejo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tmja.ensejo",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.tmja.ensejo",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}
